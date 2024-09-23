@@ -28,13 +28,7 @@ python build.py
 
 ### Run Poros ###
 
-* Run the Decision procedure from scratch
 ```
-sh ./run_decison.sh 
-```
-
-*  Run the Decision procedure with the Learning procedure
-```
-./run_decison_learning.sh 
+sh run.sh 
 ```
 
